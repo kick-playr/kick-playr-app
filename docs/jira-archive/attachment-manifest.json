@@ -1,0 +1,182 @@
+[
+  {
+    "id": "10000",
+    "key": "APP-10",
+    "filename": "codex-clipboard-61110430-85a8-4981-a305-b437598fa51d.png",
+    "size": 47083,
+    "mimeType": "image/png",
+    "sha256": "6bb93864cca82f9d912614dee77ce7ba8ded58bde417db6bbabe7ce0a18d6445",
+    "repositoryPath": "docs/jira-archive/APP-10/10000-codex-clipboard-61110430-85a8-4981-a305-b437598fa51d.png"
+  },
+  {
+    "id": "10002",
+    "key": "APP-23",
+    "filename": "desktop.png",
+    "size": 92317,
+    "mimeType": "image/png",
+    "sha256": "a616caeb04aaca1ef30aaa275d47b5cd97e823a193eb8a8e009770f5ccec1096",
+    "repositoryPath": "docs/jira-archive/APP-23/10002-desktop.png"
+  },
+  {
+    "id": "10015",
+    "key": "APP-23",
+    "filename": "IMPLEMENTATION.md",
+    "size": 4689,
+    "mimeType": "text/plain",
+    "sha256": "e1d07f8e17576d13de6596cc3a092e9b471d8608855bd10e2f91ce65425efd89",
+    "repositoryPath": "docs/jira-archive/APP-23/10015-IMPLEMENTATION.md"
+  },
+  {
+    "id": "10014",
+    "key": "APP-23",
+    "filename": "implemented-desktop.png",
+    "size": 52603,
+    "mimeType": "image/png",
+    "sha256": "88aae3c5a12abc71e8c4187437b6d09d8c5056f9e53f0a67f0583b995de002de",
+    "repositoryPath": "docs/jira-archive/APP-23/10014-implemented-desktop.png"
+  },
+  {
+    "id": "10013",
+    "key": "APP-23",
+    "filename": "implemented-mobile.png",
+    "size": 36638,
+    "mimeType": "image/png",
+    "sha256": "96c928225a9618ab68b24b723424f49add16b1cb7dc4788c6afcf5dd15b925df",
+    "repositoryPath": "docs/jira-archive/APP-23/10013-implemented-mobile.png"
+  },
+  {
+    "id": "10007",
+    "key": "APP-23",
+    "filename": "list.png",
+    "size": 108896,
+    "mimeType": "image/png",
+    "sha256": "0e2c5bc794e6e2d4a37f72cd33e7553edbd8fe3226cbda0bb6a61154bf64263b",
+    "repositoryPath": "docs/jira-archive/APP-23/10007-list.png"
+  },
+  {
+    "id": "10003",
+    "key": "APP-23",
+    "filename": "mobile.png",
+    "size": 86549,
+    "mimeType": "image/png",
+    "sha256": "c64ef0cabddce5f64877a04cc0658d33ffb6befc94aa7f0abc2f45192cf31dc5",
+    "repositoryPath": "docs/jira-archive/APP-23/10003-mobile.png"
+  },
+  {
+    "id": "10006",
+    "key": "APP-23",
+    "filename": "mobile (3fa25ab9-3ceb-4ba9-a4fb-64248f98aea3).png",
+    "size": 71030,
+    "mimeType": "image/png",
+    "sha256": "8b171f9a02c6e8467f137ff65cffb0348e19e25293f615800a0279ccfacd1db1",
+    "repositoryPath": "docs/jira-archive/APP-23/10006-mobile (3fa25ab9-3ceb-4ba9-a4fb-64248f98aea3).png"
+  },
+  {
+    "id": "10010",
+    "key": "APP-23",
+    "filename": "mobile (c0b08505-4a7a-45f4-bfb0-ccbd461ad063).png",
+    "size": 71325,
+    "mimeType": "image/png",
+    "sha256": "4f31db262be1b7e346ec193329a1429bef832f52b796dd466bb98ff0b6bfb429",
+    "repositoryPath": "docs/jira-archive/APP-23/10010-mobile (c0b08505-4a7a-45f4-bfb0-ccbd461ad063).png"
+  },
+  {
+    "id": "10004",
+    "key": "APP-23",
+    "filename": "proposal.html",
+    "size": 11548,
+    "mimeType": "text/html",
+    "sha256": "ec9e783b83dd5d2865423ed95ddf485cdabf67ca11aa1b46e17f0f0ae5807c6e",
+    "repositoryPath": "docs/jira-archive/APP-23/10004-proposal.html"
+  },
+  {
+    "id": "10011",
+    "key": "APP-23",
+    "filename": "proposal (3de672b0-1bd8-4552-83c2-cd27e93f6a17).html",
+    "size": 14025,
+    "mimeType": "text/html",
+    "sha256": "edd4fb00187ee08decf72142023e8a61bbefe291c143f4d825d4d2c47e3e5ea4",
+    "repositoryPath": "docs/jira-archive/APP-23/10011-proposal (3de672b0-1bd8-4552-83c2-cd27e93f6a17).html"
+  },
+  {
+    "id": "10008",
+    "key": "APP-23",
+    "filename": "proposal (54586dda-fff9-4bff-9b64-b3b4768db2b6).html",
+    "size": 13973,
+    "mimeType": "text/html",
+    "sha256": "f14c4b19742f59ee21fecdd931efe5dc83c57a3c24454b735fe98fbf6298545f",
+    "repositoryPath": "docs/jira-archive/APP-23/10008-proposal (54586dda-fff9-4bff-9b64-b3b4768db2b6).html"
+  },
+  {
+    "id": "10005",
+    "key": "APP-23",
+    "filename": "README.md",
+    "size": 6311,
+    "mimeType": "text/plain",
+    "sha256": "b718be5fade2736298efe981e8762d4c9891923a3e4dc972509daeff1f1af343",
+    "repositoryPath": "docs/jira-archive/APP-23/10005-README.md"
+  },
+  {
+    "id": "10009",
+    "key": "APP-23",
+    "filename": "README (6a7a24a2-601f-429f-b0cd-f20a6c9c363c).md",
+    "size": 7293,
+    "mimeType": "text/plain",
+    "sha256": "6131848e01a48ef32e6bae47966a42b09a34b692ceca22548fa0c7d43c70c2e6",
+    "repositoryPath": "docs/jira-archive/APP-23/10009-README (6a7a24a2-601f-429f-b0cd-f20a6c9c363c).md"
+  },
+  {
+    "id": "10012",
+    "key": "APP-23",
+    "filename": "README (f0830564-d5a1-4cf7-9907-b0aa0a0f6970).md",
+    "size": 7589,
+    "mimeType": "text/plain",
+    "sha256": "cc9da35dcc96fd0bb302f243c9189857d34bf83ee885db0195aacac3b6ac78c9",
+    "repositoryPath": "docs/jira-archive/APP-23/10012-README (f0830564-d5a1-4cf7-9907-b0aa0a0f6970).md"
+  },
+  {
+    "id": "10050",
+    "key": "APP-50",
+    "filename": "codex-clipboard-252d7a91-b2d6-4811-9a68-9f083ea38f37.png",
+    "size": 37371,
+    "mimeType": "image/png",
+    "sha256": "a532a34c0cde26c6e3827c7eead1a21da70afbe49bf726ef9f706e347abff4a0",
+    "repositoryPath": "docs/jira-archive/APP-50/10050-codex-clipboard-252d7a91-b2d6-4811-9a68-9f083ea38f37.png"
+  },
+  {
+    "id": "10048",
+    "key": "APP-50",
+    "filename": "codex-clipboard-35b3c4f6-0703-4c7c-abfd-6899d052e4d6.png",
+    "size": 805569,
+    "mimeType": "image/png",
+    "sha256": "64122e6b6985a0ef200ca1d6735c8d0656d2101597052b5ae0e1c6d927e80a83",
+    "repositoryPath": "docs/jira-archive/APP-50/10048-codex-clipboard-35b3c4f6-0703-4c7c-abfd-6899d052e4d6.png"
+  },
+  {
+    "id": "10046",
+    "key": "APP-50",
+    "filename": "codex-clipboard-796775d8-58e2-4ebb-bae9-e8445dee005c.png",
+    "size": 685572,
+    "mimeType": "image/png",
+    "sha256": "e750939159c040e555e87e1d77d4a6787281e8d2a66bf3ae3605d320328d7fbc",
+    "repositoryPath": "docs/jira-archive/APP-50/10046-codex-clipboard-796775d8-58e2-4ebb-bae9-e8445dee005c.png"
+  },
+  {
+    "id": "10049",
+    "key": "APP-50",
+    "filename": "codex-clipboard-e12e1605-8e66-4d94-9c8b-d9d63e97682f.png",
+    "size": 782823,
+    "mimeType": "image/png",
+    "sha256": "422c3ab2a4e997cee31fe22bb6e92f0d2742c6b46102c4eb0c0127798a67e61a",
+    "repositoryPath": "docs/jira-archive/APP-50/10049-codex-clipboard-e12e1605-8e66-4d94-9c8b-d9d63e97682f.png"
+  },
+  {
+    "id": "10047",
+    "key": "APP-50",
+    "filename": "codex-clipboard-e2f680ae-050c-470c-97b0-050876d98a7a.png",
+    "size": 477353,
+    "mimeType": "image/png",
+    "sha256": "6db53eacc704f4c462b96589757236e9582f7fb6105194baf1f334c4765353bb",
+    "repositoryPath": "docs/jira-archive/APP-50/10047-codex-clipboard-e2f680ae-050c-470c-97b0-050876d98a7a.png"
+  }
+]
