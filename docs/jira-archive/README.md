@@ -1,0 +1,47 @@
+# Jira APP documentation archive
+
+Original attachment bytes and complete comment metadata for the 43 migrated APP stories.
+
+- [APP-5](https://github.com/kick-playr/kick-playr-app/issues/1): 0 comments, 0 attachments
+- [APP-6](https://github.com/kick-playr/kick-playr-app/issues/2): 0 comments, 0 attachments
+- [APP-7](https://github.com/kick-playr/kick-playr-app/issues/3): 0 comments, 0 attachments
+- [APP-8](https://github.com/kick-playr/kick-playr-app/issues/4): 0 comments, 0 attachments
+- [APP-9](https://github.com/kick-playr/kick-playr-app/issues/5): 0 comments, 0 attachments
+- [APP-10](https://github.com/kick-playr/kick-playr-app/issues/6): 10 comments, 1 attachments
+- [APP-13](https://github.com/kick-playr/kick-playr-app/issues/7): 0 comments, 0 attachments
+- [APP-14](https://github.com/kick-playr/kick-playr-app/issues/8): 0 comments, 0 attachments
+- [APP-15](https://github.com/kick-playr/kick-playr-app/issues/9): 0 comments, 0 attachments
+- [APP-16](https://github.com/kick-playr/kick-playr-app/issues/10): 0 comments, 0 attachments
+- [APP-17](https://github.com/kick-playr/kick-playr-app/issues/11): 0 comments, 0 attachments
+- [APP-18](https://github.com/kick-playr/kick-playr-app/issues/12): 0 comments, 0 attachments
+- [APP-19](https://github.com/kick-playr/kick-playr-app/issues/13): 0 comments, 0 attachments
+- [APP-20](https://github.com/kick-playr/kick-playr-app/issues/14): 0 comments, 0 attachments
+- [APP-21](https://github.com/kick-playr/kick-playr-app/issues/15): 0 comments, 0 attachments
+- [APP-22](https://github.com/kick-playr/kick-playr-app/issues/16): 0 comments, 0 attachments
+- [APP-23](https://github.com/kick-playr/kick-playr-app/issues/17): 9 comments, 14 attachments
+- [APP-24](https://github.com/kick-playr/kick-playr-app/issues/18): 0 comments, 0 attachments
+- [APP-25](https://github.com/kick-playr/kick-playr-app/issues/19): 7 comments, 0 attachments
+- [APP-26](https://github.com/kick-playr/kick-playr-app/issues/20): 0 comments, 0 attachments
+- [APP-27](https://github.com/kick-playr/kick-playr-app/issues/21): 13 comments, 0 attachments
+- [APP-28](https://github.com/kick-playr/kick-playr-app/issues/22): 0 comments, 0 attachments
+- [APP-29](https://github.com/kick-playr/kick-playr-app/issues/23): 12 comments, 0 attachments
+- [APP-30](https://github.com/kick-playr/kick-playr-app/issues/24): 0 comments, 0 attachments
+- [APP-31](https://github.com/kick-playr/kick-playr-app/issues/25): 0 comments, 0 attachments
+- [APP-32](https://github.com/kick-playr/kick-playr-app/issues/26): 0 comments, 0 attachments
+- [APP-33](https://github.com/kick-playr/kick-playr-app/issues/27): 0 comments, 0 attachments
+- [APP-35](https://github.com/kick-playr/kick-playr-app/issues/28): 1 comments, 0 attachments
+- [APP-36](https://github.com/kick-playr/kick-playr-app/issues/29): 13 comments, 0 attachments
+- [APP-37](https://github.com/kick-playr/kick-playr-app/issues/30): 0 comments, 0 attachments
+- [APP-38](https://github.com/kick-playr/kick-playr-app/issues/31): 0 comments, 0 attachments
+- [APP-39](https://github.com/kick-playr/kick-playr-app/issues/32): 0 comments, 0 attachments
+- [APP-40](https://github.com/kick-playr/kick-playr-app/issues/33): 0 comments, 0 attachments
+- [APP-41](https://github.com/kick-playr/kick-playr-app/issues/34): 0 comments, 0 attachments
+- [APP-43](https://github.com/kick-playr/kick-playr-app/issues/35): 0 comments, 0 attachments
+- [APP-44](https://github.com/kick-playr/kick-playr-app/issues/36): 0 comments, 0 attachments
+- [APP-45](https://github.com/kick-playr/kick-playr-app/issues/37): 2 comments, 0 attachments
+- [APP-46](https://github.com/kick-playr/kick-playr-app/issues/38): 1 comments, 0 attachments
+- [APP-47](https://github.com/kick-playr/kick-playr-app/issues/39): 3 comments, 0 attachments
+- [APP-48](https://github.com/kick-playr/kick-playr-app/issues/40): 0 comments, 0 attachments
+- [APP-49](https://github.com/kick-playr/kick-playr-app/issues/41): 20 comments, 0 attachments
+- [APP-50](https://github.com/kick-playr/kick-playr-app/issues/42): 21 comments, 5 attachments
+- [APP-52](https://github.com/kick-playr/kick-playr-app/issues/43): 19 comments, 0 attachments
